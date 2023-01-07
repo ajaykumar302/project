@@ -1,0 +1,40 @@
+.box{
+    border: 2px solid rgb(234, 233, 233);
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    width: 750px;
+    margin: 20px 20px 80px 450px;
+    border-radius: 15px;
+    background-color: rgb(247, 247, 249);
+    box-shadow: 2px 2px 2px 2px gray;
+}
+.box1{
+    /* border: 2px solid rgb(255, 0, 174); */
+
+    width: 45%; 
+    padding: 100px 15px 15px 15px;
+}
+.box2{
+    /* border: 2px solid rgb(0, 255, 34); */
+    padding: 15px;
+    padding-left: 40px;
+    width: 60%;
+    /* text-align: center; */
+}
+label{
+    font-size: x-large;
+}
+.input{
+    height: 45px;
+    width: 300px;
+}
+span{
+    color: red;
+}
+.btn{
+    background-color: rgb(23, 3, 96);
+    color: rgb(252, 249, 249);
+    height: 45px;
+    width: 300px;
+}
