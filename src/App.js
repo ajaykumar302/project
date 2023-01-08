@@ -8,7 +8,7 @@ import Career from "./pages/Career"
 import Aiintenship from "./pages/Aiintenship"
 import Products from "./pages/Products"
 import Blog from "./pages/Blog"
-import About from "./pages/About"
+import Admin from "./pages/About"
 import Contact from "./pages/Contact"
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
 			<Route path="/intenship" exact element={<Aiintenship />} />
 			<Route path="/career" exact element={<Career />} />
 			<Route path="/blog" exact element={<Blog />} />
-			<Route path="/about" exact element={<About />} />
+			<Route path="/admin" exact element={<Admin />} />
 			<Route path="/contactus" exact element={<Contact />} />
 			
 			<Route path="/" element={<Navigate replace to="/login" />} />
