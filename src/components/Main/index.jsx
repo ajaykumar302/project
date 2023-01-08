@@ -24,8 +24,8 @@ const Main = () => {
 					<li><Link to="/intenship" className={styles.link}>AI INTENSHIP</Link></li>
 					<li><Link to="/career" className={styles.link}>CAREER</Link></li>
 					<li><Link to="/blog" className={styles.link}>BLOG</Link></li>
-					<li><Link to="/about" className={styles.link}>ABOUT</Link></li>
 					<li><Link to="/contactus" className={styles.link}>CONTACT US</Link></li>
+					<li><Link to="/admin" className={styles.link}>ADMIN</Link></li>	
 					<button className={styles.white_btn} onClick={handleLogout}>
 					Logout
 				</button>
