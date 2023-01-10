@@ -48,7 +48,7 @@ p{
     position: absolute;
     z-index: 3;
     margin-top: 250px;
-    margin-left: 240px;
+    margin-left: 245px;
 }
 .cont2{
     background-color: rgba(91, 2, 91, 0.694);
@@ -76,7 +76,7 @@ margin-left: 120px;
     margin-left: 200px;
 }
 .cont3-1{
-    margin: 10px;
+    margin: 30px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -94,7 +94,7 @@ margin-left: 120px;
 .head1{
     background-color: rgb(2, 2, 112);
     height: 50px;
-    width: 222px;
+    width: 220px;
     border-top-left-radius : 20px ;
     border-top-right-radius : 20px ;
     position: absolute;  
@@ -137,7 +137,7 @@ margin-left: 120px;
 .head2{
     background-color:rgba(135, 4, 111, 0.686);
     height: 50px;
-    width: 222px;
+    width: 220px;
     border-bottom-left-radius : 20px ;
     border-bottom-right-radius : 20px ;
     position: absolute;  
@@ -181,7 +181,7 @@ margin-left: 120px;
 .head3{
     background-color: rgb(253, 95, 42);
     height: 50px;
-    width: 222px;
+    width: 220px;
     border-top-left-radius : 20px ;
     border-top-right-radius : 20px ;
     position: absolute;  
@@ -223,7 +223,7 @@ margin-left: 120px;
 .head4{
     background-color:rgba(2, 93, 38, 0.812);
     height: 50px;
-    width: 222px;
+    width: 220px;
     border-bottom-left-radius : 20px ;
     border-bottom-right-radius : 20px ;
     position: absolute;  
@@ -267,7 +267,7 @@ margin-left: 120px;
 .head5{
     background-color: rgb(253, 193, 42);
     height: 50px;
-    width: 222px;
+    width: 220px;
     border-top-left-radius : 20px ;
     border-top-right-radius : 20px ;
     position: absolute;  

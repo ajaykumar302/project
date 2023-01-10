@@ -1,0 +1,12 @@
+.admin{
+    text-align: center;
+    background-color: black;
+    color: rgb(252, 251, 251);
+    padding: 15px;
+}
+.table{
+    width: 80%;
+    margin: 20px;
+    margin-left: 180px;
+    text-align: center;
+}

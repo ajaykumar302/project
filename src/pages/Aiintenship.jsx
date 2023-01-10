@@ -1,8 +1,14 @@
 import React from 'react'
+import Main from '../components/Main'
+import Footer from '../components/footer/Footer'
 
 const Aiintenship = () => {
   return (
-    <div>Aiintenship</div>
+    <div>
+    <Main/>
+    <h1>Aiintenship</h1>
+    <Footer/>
+    </div>
   )
 }
 

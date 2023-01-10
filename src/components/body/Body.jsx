@@ -36,7 +36,7 @@ const Body = () => {
                     <div className='head1'></div>
                     <div className='num'>01</div>
                     <img src={img1} alt="" className='img1' height="80px" width="80px"/>
-                    <h3 className='h3'>Initiative AI Build with Programming</h3>
+                    <h4 className='h3'>Initiative AI Build with Programming</h4>
                 </div>
                 <div className='cont3-3'>
                 <h3 className='h2'>Initiative AI Build with Programming</h3>
