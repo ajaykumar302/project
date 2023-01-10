@@ -21,9 +21,15 @@ const Main = () => {
 					<li><Link to="/products" className={styles.link}>PRODUCTS</Link></li>
 					<li><Link to="/intenship" className={styles.link}>AI INTENSHIP</Link></li>
 					<li><Link to="/career" className={styles.link}>CAREER</Link></li>
+<<<<<<< HEAD
 					<li><Link to="/blog" className={styles.link}>BLOG</Link></li>	
 					<li><Link to="/contactus" className={styles.link}>CONTACT US</Link></li>
                     <li><Link to="/admin" className={styles.link}>ADMIN</Link></li>
+=======
+					<li><Link to="/blog" className={styles.link}>BLOG</Link></li>
+					<li><Link to="/contactus" className={styles.link}>CONTACT US</Link></li>
+					<li><Link to="/admin" className={styles.link}>ADMIN</Link></li>	
+>>>>>>> a1c0ba6cfd52ecbeb36416f9b4ac3dc6b6df2cce
 					<button className={styles.white_btn} onClick={handleLogout}>
 					Logout
 				</button>

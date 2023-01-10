@@ -43,7 +43,7 @@ p{
 .boxx3{
     border: 2px solid green;
     background-color: green;
-    width: 50%;
+    width: 56%;
     height: 100px;
     position: absolute;
     z-index: 3;
@@ -94,7 +94,11 @@ margin-left: 120px;
 .head1{
     background-color: rgb(2, 2, 112);
     height: 50px;
+<<<<<<< HEAD
     width: 220px;
+=======
+    width: 210px;
+>>>>>>> a1c0ba6cfd52ecbeb36416f9b4ac3dc6b6df2cce
     border-top-left-radius : 20px ;
     border-top-right-radius : 20px ;
     position: absolute;  
@@ -137,7 +141,11 @@ margin-left: 120px;
 .head2{
     background-color:rgba(135, 4, 111, 0.686);
     height: 50px;
+<<<<<<< HEAD
     width: 220px;
+=======
+    width: 210px;
+>>>>>>> a1c0ba6cfd52ecbeb36416f9b4ac3dc6b6df2cce
     border-bottom-left-radius : 20px ;
     border-bottom-right-radius : 20px ;
     position: absolute;  
@@ -181,7 +189,11 @@ margin-left: 120px;
 .head3{
     background-color: rgb(253, 95, 42);
     height: 50px;
+<<<<<<< HEAD
     width: 220px;
+=======
+    width: 210px;
+>>>>>>> a1c0ba6cfd52ecbeb36416f9b4ac3dc6b6df2cce
     border-top-left-radius : 20px ;
     border-top-right-radius : 20px ;
     position: absolute;  
@@ -223,7 +235,11 @@ margin-left: 120px;
 .head4{
     background-color:rgba(2, 93, 38, 0.812);
     height: 50px;
+<<<<<<< HEAD
     width: 220px;
+=======
+    width: 210px;
+>>>>>>> a1c0ba6cfd52ecbeb36416f9b4ac3dc6b6df2cce
     border-bottom-left-radius : 20px ;
     border-bottom-right-radius : 20px ;
     position: absolute;  
@@ -267,7 +283,11 @@ margin-left: 120px;
 .head5{
     background-color: rgb(253, 193, 42);
     height: 50px;
+<<<<<<< HEAD
     width: 220px;
+=======
+    width: 210px;
+>>>>>>> a1c0ba6cfd52ecbeb36416f9b4ac3dc6b6df2cce
     border-top-left-radius : 20px ;
     border-top-right-radius : 20px ;
     position: absolute;  

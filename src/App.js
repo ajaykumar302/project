@@ -8,7 +8,11 @@ import Career from "./pages/Career"
 import Aiintenship from "./pages/Aiintenship"
 import Products from "./pages/Products"
 import Blog from "./pages/Blog"
+<<<<<<< HEAD
 import Admin from "./pages/Admin"
+=======
+import Admin from "./pages/About"
+>>>>>>> a1c0ba6cfd52ecbeb36416f9b4ac3dc6b6df2cce
 import Contact from "./pages/Contact"
 
 function App() {
